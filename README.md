@@ -1,7 +1,7 @@
 # learncpp-exercises
 
 Warm-up exercises and small projects following [learncpp.com](https://www.learncpp.com/), covering
-Phase A (Modern C++ Foundations) of the quant-dev roadmap.
+Modern C++ Foundations.
 
 ## Structure
 
